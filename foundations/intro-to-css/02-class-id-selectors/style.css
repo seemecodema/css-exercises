@@ -15,3 +15,9 @@
     color: blue;
     font-size: 36px;
 }
+
+#greengobbler {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
