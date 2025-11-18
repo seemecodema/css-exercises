@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+
+.primero,
+.cool-guy {
+    color: black;
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
