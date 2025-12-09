@@ -29,7 +29,8 @@ body {
   font-weight: bold;
 } 
 
-.child {
+.child,
+.small-para {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
