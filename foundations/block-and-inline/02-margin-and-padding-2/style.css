@@ -35,4 +35,5 @@ button {
   border: 1px solid #eee;
   font-size: 30px;
   display: block;
+  text-align: center;
 }
