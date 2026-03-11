@@ -54,6 +54,6 @@ ul {
   gap: 16px;
 }
 
-.right-items {
-  align-self: flex-end;
+.left-items, .right-items {
+  display: flex;
 }
