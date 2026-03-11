@@ -49,3 +49,8 @@ ul {
   list-style-type: none;
   display: flex;
 }
+
+.notifications {
+  display: flex;
+  align-self: flex-end;
+}
