@@ -49,9 +49,3 @@ ul {
   list-style-type: none;
   display: flex;
 }
-
-.notifications {
-  display: flex;
-  flex-direction: row-reverse;
-  align-self: flex-end;
-}
