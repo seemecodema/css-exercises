@@ -56,4 +56,6 @@ ul {
 
 .left-items, .right-items {
   display: flex;
+  align-items: center;
+  gap: 16px;
 }
