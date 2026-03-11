@@ -2,7 +2,6 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  flex-flow: row;
 }
 
 .logo {
